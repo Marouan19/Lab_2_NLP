@@ -7,7 +7,7 @@ This project focuses on utilizing rule-based natural language processing (NLP) t
 To clone this repository, use the following command:
 
 ```bash
-git clone git@github.com:Marouan19/Bill_Generation.git
+git clone git@github.com:Marouan19/Lab_2_NLP.git
 ```
 
 ## Part 1: Rule Based NLP and Regex:
